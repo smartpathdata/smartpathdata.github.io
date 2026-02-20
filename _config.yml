@@ -1,0 +1,13 @@
+title: SmartPath Data
+description: Data consulting, automation, and Power BI expertise for small teams and solo founders.
+baseurl: ""
+url: "https://smartpathdata.github.io"
+theme: minima
+markdown: kramdown
+
+collections:
+  posts:
+    output: true
+
+plugins:
+  - jekyll-feed
