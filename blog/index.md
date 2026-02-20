@@ -3,7 +3,6 @@ layout: page
 title: Blog
 ---
 
-# Blog
 
 Insights, tips, and practical guidance on Power BI, automation, and working smarter with data.
 
