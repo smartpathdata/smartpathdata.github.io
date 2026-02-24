@@ -17,7 +17,10 @@ Whether you need better reporting, automated workflows, or a reliable Power BI s
 
 <div style="background:#f7f9fc; padding:2rem; border-radius:8px; margin:2rem 0;">
 <h2>Why clients work with me</h2>
-<p>Clear communication, practical solutions, and reliable delivery.</p>
+<p>Clear communication, practical solutions, and reliable delivery.  
+I combine technical expertise with a practical, friendly approach.  
+You get solutions that make sense, work reliably, and fit the way you already operate.
+</p>
 </div>
 
 ## Why clients work with me
