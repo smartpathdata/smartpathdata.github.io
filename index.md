@@ -13,7 +13,12 @@ Whether you need better reporting, automated workflows, or a reliable Power BI s
 - Build clean, reliable Power BI dashboards  
 - Automate repetitive data tasks  
 - Fix broken spreadsheets and reporting processes  
-- Create simple, scalable data workflows  
+- Create simple, scalable data workflows
+
+<div style="background:#f7f9fc; padding:2rem; border-radius:8px; margin:2rem 0;">
+<h2>Why clients work with me</h2>
+<p>Clear communication, practical solutions, and reliable delivery.</p>
+</div>
 
 ## Why clients work with me
 I combine technical expertise with a practical, friendly approach.  
