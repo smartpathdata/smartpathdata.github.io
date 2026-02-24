@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: SmartPath Data
 ---
 <img src="/assets/images/1unsplash.jpg" alt="SmartPath Data banner" style="width:100%; border-radius:8px; margin-bottom:2rem;">
 
