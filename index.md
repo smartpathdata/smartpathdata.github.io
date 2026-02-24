@@ -23,8 +23,4 @@ You get solutions that make sense, work reliably, and fit the way you already op
 </p>
 </div>
 
-## Why clients work with me
-I combine technical expertise with a practical, friendly approach.  
-You get solutions that make sense, work reliably, and fit the way you already operate.
-
 [Explore my services →](/services)
