@@ -12,10 +12,12 @@ Whether you need better reporting, automated workflows, or a reliable Power BI s
 <div style="background:#f7f9fc; padding:2rem; border-radius:8px; margin:2rem 0;">
 <h2>What I do</h2>
 <p>
-- Build clean, reliable Power BI dashboards  
-- Automate repetitive data tasks  
-- Fix broken spreadsheets and reporting processes  
-- Create simple, scalable data workflows
+  <ul>
+    <li> Build clean, reliable Power BI dashboards </li>
+    <li> Automate repetitive data tasks </li>
+    <li> Fix broken spreadsheets and reporting processes </li>
+    <li> Create simple, scalable data workflows </li>
+  </ul>
 </p>
 </div>
 
