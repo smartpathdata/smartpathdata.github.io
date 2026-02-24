@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Services
+title: SmartPath Data Services
 ---
-
-# Services
 
 I help businesses make better use of their data through clear reporting, automation, and practical problem‑solving.
 
