@@ -2,7 +2,7 @@
 layout: page
 title: About SmartPath Data
 ---
-
+<img src="/assets/images/ProfilePic.jpg" alt="Steve" style="height:80px; margin-right:1rem;">  
 I’m Steve, a data consultant who helps small teams and solo founders get more from their data without the complexity.
 
 With experience across Power BI, automation, and practical workflow design, I focus on solutions that are clear, reliable, and easy to maintain.  
