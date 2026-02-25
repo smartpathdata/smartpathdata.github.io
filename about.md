@@ -3,7 +3,7 @@ layout: page
 title: About SmartPath Data
 ---
 <div style="display: flex; justify-content: center;">
-  <img src="/assets/images/ProfilePic.jpg" alt="SmartPath Data Steve" style="width: 200px;">
+  <img src="/assets/images/ProfilePic.jpg" alt="SmartPath Data Steve" style="width: 200px; padding-right: 20px;">
 
 I’m Steve, a data consultant who helps small teams and solo founders get more from their data without the complexity.
 
