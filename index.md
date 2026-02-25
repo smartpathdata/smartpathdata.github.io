@@ -2,7 +2,7 @@
 layout: page
 title: SmartPath Data
 ---
-<img src="/assets/images/1unsplash.jpg" alt="SmartPath Data banner" style="width:100%; border-radius:8px; margin-bottom:2rem;">
+<img src="/assets/images/1unsplash.jpg" alt="SmartPath Data banner" style="width:60%; border-radius:8px; margin-bottom:2rem;">
 
 # Data expertise that helps your business move faster
 
