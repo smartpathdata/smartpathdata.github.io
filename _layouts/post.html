@@ -1,9 +1,104 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | SmartPath Data</title>
+  <meta name="description" content="{{ page.excerpt | strip_html | truncatewords: 30 | default: 'Practical insights on Power BI, data automation, and workflow design from SmartPath Data.' }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+  <style>
+    header.site-header, .site-header, body > header { display: none !important; height: 0 !important; padding: 0 !important; margin: 0 !important; }
+    nav.site-nav ul { list-style: none !important; margin: 0 !important; padding: 0 !important; display: flex !important; }
+    nav.site-nav li { list-style: none !important; display: block !important; }
+  </style>
+</head>
+<body>
 
-<div class="post">
-  <h1>{{ page.title }}</h1>
-  <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
-  {{ content }}
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="nav-logo">SmartPath<span> Data</span></a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/services">Services</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/contact" class="nav-cta">Get in Touch</a></li>
+  </ul>
+</nav>
+
+<div class="page-body">
+
+  <!-- POST HERO -->
+  <div class="page-hero">
+    <div class="page-hero-inner">
+      <div style="margin-bottom:1.5rem;">
+        <a href="/blog" style="display:inline-flex;align-items:center;gap:0.4rem;font-size:0.85rem;font-weight:600;color:rgba(255,255,255,0.5);font-family:'DM Sans',sans-serif;text-decoration:none;transition:color 0.2s;"
+          onmouseover="this.style.color='#4AACF0'" onmouseout="this.style.color='rgba(255,255,255,0.5)'">
+          ← Back to Blog
+        </a>
+      </div>
+      <div class="eyebrow">{{ page.category | default: "Insight" }}</div>
+      <h1>{{ page.title }}</h1>
+      <div style="display:flex;align-items:center;gap:1.5rem;margin-top:1.2rem;flex-wrap:wrap;">
+        <span style="font-size:0.88rem;color:rgba(255,255,255,0.5);font-family:'DM Sans',sans-serif;">
+          {{ page.date | date: "%B %d, %Y" }}
+        </span>
+        <span style="display:flex;align-items:center;gap:0.5rem;font-size:0.88rem;color:rgba(255,255,255,0.5);font-family:'DM Sans',sans-serif;">
+          <img src="/assets/images/ProfilePic.jpg" alt="Steve" style="width:24px;height:24px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(74,172,240,0.4);">
+          Steve · SmartPath Data
+        </span>
+      </div>
+    </div>
+  </div>
+
+  <!-- POST CONTENT -->
+  <section style="padding:80px 5vw 100px;background:#fff;">
+    <div style="max-width:720px;margin:0 auto;">
+
+      <!-- Article body -->
+      <div class="post-content">
+        {{ content }}
+      </div>
+
+      <!-- Share / back -->
+      <div style="margin-top:3rem;padding-top:2rem;border-top:1px solid #E2ECF5;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;">
+        <a href="/blog" style="display:inline-flex;align-items:center;gap:0.5rem;font-size:0.9rem;font-weight:600;color:#1E6FBF;text-decoration:none;font-family:'DM Sans',sans-serif;">
+          ← All Articles
+        </a>
+        <a href="/contact" style="background:#1E6FBF;color:#fff;padding:0.7rem 1.6rem;border-radius:4px;text-decoration:none;font-weight:600;font-size:0.9rem;font-family:'DM Sans',sans-serif;">
+          Work With Me →
+        </a>
+      </div>
+
+      <!-- Author card -->
+      <div style="margin-top:3rem;padding:2rem;background:#F5F7FA;border:1.5px solid #E2ECF5;border-radius:12px;display:flex;gap:1.5rem;align-items:flex-start;">
+        <img src="/assets/images/ProfilePic.jpg" alt="Steve" style="width:64px;height:64px;border-radius:50%;object-fit:cover;border:2px solid #E2ECF5;flex-shrink:0;">
+        <div>
+          <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#1E6FBF;font-family:'DM Sans',sans-serif;margin-bottom:0.3rem;">Written by</div>
+          <h4 style="font-family:'DM Sans',sans-serif;font-weight:600;color:#0B1F3A;margin-bottom:0.4rem;">Steve · SmartPath Data</h4>
+          <p style="font-size:0.88rem;color:#334E6B;line-height:1.6;">Data consultant helping small teams and solo founders get more from their data — through Power BI, automation, and practical workflow design.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-strip">
+    <h2>Found this useful?</h2>
+    <p>I help small teams fix exactly these kinds of problems. Book a free call to talk through your situation.</p>
+    <a href="/contact" class="btn-white">Book a Free Call →</a>
+  </section>
+
 </div>
+
+<footer class="site-footer">
+  <p>© {{ site.time | date: "%Y" }} SmartPath Data — Data consulting and automation &nbsp;|&nbsp; <a href="/contact">Contact</a></p>
+</footer>
+
+</body>
+</html>
