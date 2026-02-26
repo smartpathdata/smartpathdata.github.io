@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="16" fill="#0B1F3A"/>
+  <!-- Outer ring -->
+  <circle cx="16" cy="16" r="11" fill="none" stroke="#4AACF0" stroke-width="1.5"/>
+  <!-- Network nodes -->
+  <circle cx="10" cy="16" r="2" fill="#4AACF0"/>
+  <circle cx="22" cy="10" r="2" fill="#4AACF0"/>
+  <circle cx="22" cy="22" r="2" fill="#4AACF0"/>
+  <!-- Connecting lines -->
+  <line x1="12" y1="15" x2="20" y2="11" stroke="#4AACF0" stroke-width="1.5"/>
+  <line x1="12" y1="17" x2="20" y2="21" stroke="#4AACF0" stroke-width="1.5"/>
+</svg>
