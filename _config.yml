@@ -1,13 +1,15 @@
 title: SmartPath Data
-description: Data consulting, automation, and Power BI expertise for small teams and solo founders.
-baseurl: ""
+description: Data consulting and automation for small teams and solo founders.
 url: "https://smartpathdata.github.io"
-theme: minima
+
+# Disable Minima (or any default theme) so it doesn't inject its own CSS/layouts
+theme: null
+
+# Keep markdown rendering
 markdown: kramdown
 
-collections:
-  posts:
-    output: true
-
-plugins:
-  - jekyll-feed
+# Exclude dev files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
