@@ -2,21 +2,7 @@
    SmartPath Data — Global Stylesheet
    ============================================================ */
 
-/* Hard reset — overrides Jekyll Minima theme defaults */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-/* Undo Minima's layout wrappers */
-.site-header, .site-footer-wrapper, .wrapper { all: unset; }
-header.site-header { display: none !important; }
-
-/* Kill any inherited list styles everywhere */
-ul, ol, li { list-style: none; margin: 0; padding: 0; }
-
-/* Kill Minima link colours */
-a { text-decoration: none; }
-
-/* Kill Minima body padding/margin */
-body { margin: 0 !important; padding: 0 !important; }
 
 :root {
   --navy:        #0B1F3A;
@@ -315,3 +301,48 @@ a  { color: var(--blue); }
   .contact-grid, .about-grid, .values-grid { grid-template-columns: 1fr; }
   .steps::before { display: none; }
 }
+
+/* ── BLOG POST CONTENT ── */
+.post-content { font-size: 1.05rem; color: var(--text-body); line-height: 1.8; }
+.post-content h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.7rem; color: var(--navy);
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.post-content h3 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.3rem; color: var(--navy); margin: 2rem 0 0.8rem;
+}
+.post-content p { margin-bottom: 1.3rem; font-weight: 300; }
+.post-content ul, .post-content ol {
+  padding-left: 1.4rem; margin-bottom: 1.3rem;
+  list-style: disc;
+}
+.post-content ol { list-style: decimal; }
+.post-content li { margin-bottom: 0.5rem; color: var(--text-body); font-weight: 300; }
+.post-content strong { font-weight: 600; color: var(--navy); }
+.post-content em { font-style: italic; }
+.post-content a { color: var(--blue); text-decoration: underline; }
+.post-content blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.8rem 1.5rem;
+  margin: 1.5rem 0;
+  background: rgba(30,111,191,0.05);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: var(--text-body);
+}
+.post-content code {
+  background: var(--off-white); border: 1px solid var(--border);
+  padding: 0.15em 0.45em; border-radius: 4px;
+  font-size: 0.88em; font-family: 'Courier New', monospace;
+  color: var(--navy);
+}
+.post-content pre {
+  background: var(--navy); color: #e2e8f0;
+  padding: 1.5rem; border-radius: 8px; overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+.post-content pre code { background: none; border: none; color: inherit; padding: 0; }
