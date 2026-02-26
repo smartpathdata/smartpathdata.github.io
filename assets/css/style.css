@@ -2,7 +2,21 @@
    SmartPath Data — Global Stylesheet
    ============================================================ */
 
+/* Hard reset — overrides Jekyll Minima theme defaults */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* Undo Minima's layout wrappers */
+.site-header, .site-footer-wrapper, .wrapper { all: unset; }
+header.site-header { display: none !important; }
+
+/* Kill any inherited list styles everywhere */
+ul, ol, li { list-style: none; margin: 0; padding: 0; }
+
+/* Kill Minima link colours */
+a { text-decoration: none; }
+
+/* Kill Minima body padding/margin */
+body { margin: 0 !important; padding: 0 !important; }
 
 :root {
   --navy:        #0B1F3A;
