@@ -37,7 +37,7 @@ description: Meet Steve — the data consultant behind SmartPath Data. Power BI,
 
       <div class="about-body">
         <div class="about-badge">👋 Hi, I'm Steve</div>
-        <h2>Data consultant for small teams and solo founders</h2>
+        <h2>Data consultant for SMEs</h2>
         <p>I help businesses get more from their data — without the complexity, the jargon, or the enterprise-sized invoices. With hands-on experience across Power BI, automation, and practical workflow design, I focus on solutions that are clear, reliable, and easy to maintain.</p>
         <p>Clients work with me because I explain things simply, build things that last, and genuinely care about making their day-to-day work easier. I'm not interested in delivering something impressive that nobody uses — I want to deliver something that makes a real difference.</p>
         <p>If you want a friendly expert who can help you untangle data problems and build tools that actually work, you're in the right place.</p>
