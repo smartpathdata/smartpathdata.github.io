@@ -111,7 +111,7 @@ description: Power BI dashboards, data automation, workflow fixes and one-to-one
         </div>
         <div style="padding:1.5rem 0;border-bottom:1px solid #E2ECF5;">
           <h4 style="font-size:1.05rem;color:#0B1F3A;margin-bottom:0.6rem;font-family:'DM Sans',sans-serif;font-weight:600;">How long do projects typically take?</h4>
-          <p style="font-size:0.93rem;color:#334E6B;">Most dashboard and automation projects run between 2–6 weeks depending on scope. I'll always give you a realistic timeline in the proposal.</p>
+          <p style="font-size:0.93rem;color:#334E6B;">Most dashboard and automation projects run between 2–12 weeks depending on scope. I'll always give you a realistic timeline in the proposal.</p>
         </div>
         <div style="padding:1.5rem 0;border-bottom:1px solid #E2ECF5;">
           <h4 style="font-size:1.05rem;color:#0B1F3A;margin-bottom:0.6rem;font-family:'DM Sans',sans-serif;font-weight:600;">What if I'm not sure what I need?</h4>
