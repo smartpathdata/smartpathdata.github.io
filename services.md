@@ -107,7 +107,7 @@ description: Power BI dashboards, data automation, workflow fixes and one-to-one
       <div style="border-top:1px solid #E2ECF5;margin-top:2rem;">
         <div style="padding:1.5rem 0;border-bottom:1px solid #E2ECF5;">
           <h4 style="font-size:1.05rem;color:#0B1F3A;margin-bottom:0.6rem;font-family:'DM Sans',sans-serif;font-weight:600;">Do you work with businesses outside the UK?</h4>
-          <p style="font-size:0.93rem;color:#334E6B;">Yes — I work fully remotely and have clients across Europe and beyond. Time zones are rarely an issue.</p>
+          <p style="font-size:0.93rem;color:#334E6B;">Yes — I work fully remotely and can work with clients across Europe and beyond.</p>
         </div>
         <div style="padding:1.5rem 0;border-bottom:1px solid #E2ECF5;">
           <h4 style="font-size:1.05rem;color:#0B1F3A;margin-bottom:0.6rem;font-family:'DM Sans',sans-serif;font-weight:600;">How long do projects typically take?</h4>
