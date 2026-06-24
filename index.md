@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SmartPath Data
-description: SmartPath Data helps small teams and solo founders turn messy data into clear insight — Power BI, automation, and workflow design.
+description: SmartPath Data helps small teams and solo founders turn messy data into clear insight — Fabric, Power BI, automation, and workflow design.
 ---
 
 <!-- HERO -->
@@ -28,7 +28,7 @@ description: SmartPath Data helps small teams and solo founders turn messy data 
         Turn messy data into <em style="font-style:italic;color:#4AACF0;">clear decisions</em>
       </h1>
       <p style="font-size:1.08rem;line-height:1.75;color:rgba(255,255,255,0.68);max-width:480px;margin-bottom:2.5rem;font-weight:300;animation:fadeUp 0.7s 0.5s ease both;">
-        SmartPath Data helps small teams and solo founders build clean reporting, automated workflows, and reliable Power BI dashboards — without the enterprise complexity.
+        SmartPath Data helps small teams and solo founders build clean reporting, automated dataflows and workflows, and reliable Power BI dashboards — without the enterprise complexity.
       </p>
       <div style="display:flex;gap:1rem;flex-wrap:wrap;animation:fadeUp 0.7s 0.65s ease both;">
         <a href="/services" class="btn-primary">Explore Services →</a>
@@ -49,7 +49,7 @@ description: SmartPath Data helps small teams and solo founders turn messy data 
       </div>
       <div style="background:rgba(255,255,255,0.05);border:1px solid rgba(74,172,240,0.2);border-radius:10px;padding:1.8rem 1.5rem;backdrop-filter:blur(8px);grid-column:span 2;">
         <div style="font-size:1.6rem;margin-bottom:0.8rem;">🔵</div>
-        <div style="font-family:'DM Serif Display',serif;font-size:2.4rem;color:#fff;line-height:1;margin-bottom:0.4rem;">Power BI<span style="color:#C9A84C;"> Expert</span></div>
+        <div style="font-family:'DM Serif Display',serif;font-size:2.4rem;color:#fff;line-height:1;margin-bottom:0.4rem;">Fabric / Power BI<span style="color:#C9A84C;"> Expert</span></div>
         <div style="font-size:0.85rem;color:#8AA4C0;">Dashboards your team will actually use, built right</div>
       </div>
     </div>
@@ -59,7 +59,7 @@ description: SmartPath Data helps small teams and solo founders turn messy data 
 <!-- TRUST BAR -->
 <div style="background:#F5F7FA;border-top:1px solid #E2E8F0;border-bottom:1px solid #E2E8F0;padding:1.4rem 5vw;display:flex;align-items:center;justify-content:center;gap:3rem;flex-wrap:wrap;">
   <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Power BI Dashboards</div>
-  <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Workflow Automation</div>
+  <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Data and Workflow Automation</div>
   <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Spreadsheet Rescue</div>
   <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Scalable Data Pipelines</div>
   <div style="display:flex;align-items:center;gap:0.6rem;font-size:0.85rem;font-weight:600;color:#334E6B;"><span style="color:#1E6FBF;">✓</span> Clear Communication</div>
