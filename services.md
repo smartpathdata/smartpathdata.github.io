@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Services
-description: Power BI dashboards, data automation, workflow fixes and one-to-one support for small teams and solo founders.
+description: Fabric and Power BI dashboards, data automation, workflow fixes and one-to-one support for small teams and solo founders.
 ---
 
 <!-- PAGE HERO -->
@@ -9,7 +9,7 @@ description: Power BI dashboards, data automation, workflow fixes and one-to-one
   <div class="page-hero-inner">
     <div class="eyebrow">What I Offer</div>
     <h1>Data services that <em>actually fit</em> your business</h1>
-    <p>I help small teams and solo founders get more from their data — through clear reporting, smart automation, and practical problem-solving. No bloated retainers, no unnecessary complexity.</p>
+    <p>I help small teams and solo founders get more from their data — through clear reporting, smart data automation, and practical problem-solving. No bloated retainers, no unnecessary complexity.</p>
   </div>
 </div>
 
@@ -24,7 +24,7 @@ description: Power BI dashboards, data automation, workflow fixes and one-to-one
 
       <div class="service-card">
         <div class="service-icon-wrap">📊</div>
-        <h3>Power BI Development</h3>
+        <h3>Fabric and Power BI Development</h3>
         <p>Clean, reliable dashboards built around the questions your business actually needs to answer. I focus on clarity, performance, and long-term maintainability.</p>
         <ul>
           <li>Data model design &amp; optimisation</li>
@@ -39,8 +39,9 @@ description: Power BI dashboards, data automation, workflow fixes and one-to-one
       <div class="service-card">
         <div class="service-icon-wrap">⚙️</div>
         <h3>Data Automation</h3>
-        <p>Reduce manual work and remove human error with lightweight automation. From PowerShell to Power Automate, I build solutions that save time every day.</p>
+        <p>Reduce manual work and remove human error with lightweight automation. From Fabric notebooks to PowerShell to Power Automate, I build solutions that save time every day.</p>
         <ul>
+          <li>Fabric data automation &amp; connectors</li>
           <li>Power Automate flows &amp; connectors</li>
           <li>PowerShell &amp; Python scripts</li>
           <li>Scheduled data refreshes &amp; alerts</li>
