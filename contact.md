@@ -78,6 +78,7 @@ description: Get in touch with SmartPath Data — book a free discovery call or 
             <label for="service">What can I help with?</label>
             <select id="service" name="service">
               <option value="">Select a service...</option>
+              <option value="fabric">Fabric Development</option>
               <option value="powerbi">Power BI Dashboard</option>
               <option value="automation">Data Automation</option>
               <option value="workflow">Workflow Fix / Troubleshooting</option>
